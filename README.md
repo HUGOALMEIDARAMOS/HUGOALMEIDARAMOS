@@ -1,7 +1,6 @@
 # Hi there 👋
 
-### My name is Hugo Almeida
-Welcome to my GitHub
+### My name is Hugo Almeida - Welcome to my GitHub
 
 
 I'm a fullstack developer, passionate about technologies in general, always looking to improve every day more.
