@@ -7,6 +7,7 @@ Welcome to my GitHub
 I'm a fullstack developer, passionate about technologies in general, always looking to improve every day more.
 
 
+<img align="right" height="300px" src="https://github.com/HUGOALMEIDARAMOS/HUGOALMEIDARAMOS/blob/main/character-18.svg" />
 
 
 ### I know more about- </br>
