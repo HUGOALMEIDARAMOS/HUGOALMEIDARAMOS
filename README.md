@@ -15,17 +15,13 @@ I'm a fullstack developer, passionate about technologies in general, always look
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=ffffff)
-
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=NODE.JS)
 ![ADONISJS](https://img.shields.io/badge/-ADONISJS-220052?style=for-the-badge&logo=ADONISJS)
-
 ![ANGULAR](https://img.shields.io/badge/-ANGULAR-DD0031?style=for-the-badge&logo=ANGULAR&logoColor=ffffff)
 ![SLIMFRAMEWORK](https://img.shields.io/badge/-SLIMFRAMEWORK-000000?style=for-the-badge&logo=SLIMFRAMEWORK&logoColor=ffffff)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=ffffff)
-
 ![DOCKER](https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
 ![POSTGRES](https://img.shields.io/badge/-POSTGRES-336791?style=for-the-badge&logo=POSTGRESQL)
