@@ -16,7 +16,7 @@ I'm a fullstack developer, passionate about technologies in general, always look
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MySQL)
-![POSTGRES](https://img.shields.io/badge/-POSTGRES-000000?style=for-the-badge&logo=POSTGRE)
+![POSTGRES](https://img.shields.io/badge/-POSTGRES-000000?style=for-the-badge&logo=POSTGRESQL)
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api?username=hugoalmeidaramos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/hugoalmeidaramos/github-readme-stats)
