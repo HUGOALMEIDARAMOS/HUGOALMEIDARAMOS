@@ -11,19 +11,19 @@ I'm a fullstack developer, passionate about technologies in general, always look
 
 
 ### I know more about- </br>
-![Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP)
-![Badge](https://img.shields.io/badge/-NODE-339933?style=for-the-badge&logo=NODE.JS)
-![Badge](https://img.shields.io/badge/-ADONISJS-220052?style=for-the-badge&logo=ADONISJS)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP)
+![NODE.JS](https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=NODE.JS)
+![ADONISJS](https://img.shields.io/badge/-ADONISJS-220052?style=for-the-badge&logo=ADONISJS)
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 
 
-![SQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MySQL)
-![POSTGRES](https://img.shields.io/badge/-POSTGRES-000000?style=for-the-badge&logo=POSTGRESQL)
+![SQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=MySQL)
+![POSTGRES](https://img.shields.io/badge/-POSTGRES-336791?style=for-the-badge&logo=POSTGRESQL)
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api?username=hugoalmeidaramos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/hugoalmeidaramos/github-readme-stats)
