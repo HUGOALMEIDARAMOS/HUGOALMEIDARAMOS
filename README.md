@@ -12,13 +12,11 @@ I'm a fullstack developer, passionate about technologies in general, always look
 
 ### I know more about- </br>
 ![Badge](https://img.shields.io/badge/-php-000000?style=for-the-badge&logo=PHP)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![SQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MySQL)
+![POSTGRES](https://img.shields.io/badge/-POSTGRES-000000?style=for-the-badge&logo=POSTGRES)
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api?username=hugoalmeidaramos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/hugoalmeidaramos/github-readme-stats)
