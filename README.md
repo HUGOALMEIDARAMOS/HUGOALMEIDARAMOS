@@ -12,7 +12,7 @@ I'm a fullstack developer, passionate about technologies in general, always look
 
 ### I know more about- </br>
 ![Node](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=node-js)
-![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=nodejs&color=blue&style=for-the-badge&logo=NODE)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
