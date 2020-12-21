@@ -13,7 +13,7 @@ I'm a fullstack developer, passionate about technologies in general, always look
 ### I know more about- </br>
 
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP?logoColor=violet)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=violet)
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=NODE.JS)
 ![ADONISJS](https://img.shields.io/badge/-ADONISJS-220052?style=for-the-badge&logo=ADONISJS)
 
