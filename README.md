@@ -11,9 +11,9 @@ I'm a fullstack developer, passionate about technologies in general, always look
 
 
 ### I know more about- </br>
-![Badge](https://img.shields.io/static/v1?label=PHP&color=blue&style=for-the-badge&logo=PHP&color=orange)
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP)
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP-ffffff)
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=NODE.JS)
 ![ADONISJS](https://img.shields.io/badge/-ADONISJS-220052?style=for-the-badge&logo=ADONISJS)
 
