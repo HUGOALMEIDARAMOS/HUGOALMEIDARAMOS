@@ -19,11 +19,13 @@ I'm a fullstack developer, passionate about technologies in general, always look
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-ANGULAR-DD0031?style=for-the-badge&logo=ANGULAR&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=ffffff)
 
 
-![JavaScript](https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=DOCKER)
+![JavaScript](https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=ffffff)
 
 ![SQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
 ![POSTGRES](https://img.shields.io/badge/-POSTGRES-336791?style=for-the-badge&logo=POSTGRESQL)
