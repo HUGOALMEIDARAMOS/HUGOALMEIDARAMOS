@@ -27,7 +27,8 @@ I'm a fullstack developer, passionate about technologies in general, always look
 ![POSTGRES](https://img.shields.io/badge/-POSTGRES-336791?style=for-the-badge&logo=POSTGRESQL)
 ![JSON](https://img.shields.io/badge/-JSON-00000?style=for-the-badge&logo=JSON&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=for-the-badge&logo=JAVA&logoColor=ffffff)
-
+![SPRING](https://img.shields.io/badge/-SPRING-339933?style=for-the-badge&logo=SPRING&logoColor=ffffff)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-E34F26?style=for-the-badge&logo=TYPESCRIPT&logoColor=ffffff)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api?username=hugoalmeidaramos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)](https://github.com/hugoalmeidaramos/github-readme-stats)
 
